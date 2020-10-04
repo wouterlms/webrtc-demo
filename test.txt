@@ -1,0 +1,9 @@
+idee:
+
+maak lege shit aan (2 video, 1 audio);
+
+vraag camera & audio
+	-> gebruik die stream voor 1 video en 1 audio (vervang lege video 1 & lege audio 1)
+
+vraag scherm
+	-> vervang video 2
